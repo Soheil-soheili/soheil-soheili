@@ -4,7 +4,7 @@
 
 Sound Engineer, Music Producer & Web Developer based in Berlin.  
 Co-founder/operator of **[aNoise independent label](https://anoise.org)**.  
-Archiving Iranian hip-hop (e.g., 021-music.com) & building scrapers/tools.[cite:10]
+Archiving building scrapers/tools.
 
 ## 🛠️ Skills & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript&logoColor=white)
